@@ -20,7 +20,7 @@ In order to run this project, you'll need to setup you dev environment:
   - Connect your Microsoft Account with the C# Dev Kit
   - Install the .NET 9 SDK (using the Install button on the C# Dev Kit welcome back within Visual Studio Code)
 
-## How
+## How!
 - Install the pre-requisites to setup Visual Studio Code
 - Load this project, Run and Debug
 - See that your web browser launches automatically with Swagger
